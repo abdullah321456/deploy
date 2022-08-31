@@ -3,6 +3,50 @@
   <component name="ChangeListManager">
     <list default="true" id="3df440eb-6a26-4e5c-a45e-c43baa6e134e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.361584f0de3e7c9e77ba830f11b38d9a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/2.72696988.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/2.72696988.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.5f48d2b9.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.5f48d2b9.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.ea0205f3.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.ea0205f3.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.ea0205f3.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.ed41790a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.ed41790a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.6fa4b921.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.6fa4b921.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/AktivGrotesk.a59a10fc.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/Lessons.65fd2155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/PrivacyPolicy.403d8f25.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/a.70e03237.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/b.3ec9c960.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/baloon.47d72e43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/c.13c32845.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/calenders.1e94beb4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/commentPic.f3bafc96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/d.8e253cb6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/logo.c68e1c2f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/medal.e525c404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/mobile.50a47343.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/perfectTutor.44049d96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/question.a49da6aa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/s1.4003cc4a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/s2.1f4e1a44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/s3.73671a83.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/teacher.07b335d7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/teacher.ead0e24a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/tutorGirl.eeab3de1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/w1.93fb809d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/wireGlobe.a61117ad.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +69,12 @@
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="js" value="2" />
-          <entry key="json" value="1" />
+          <entry key="json" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="1" />
+          <entry key="JSON" value="3" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
@@ -38,10 +82,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="7" />
+          <entry key="json" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JSON" value="4" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
@@ -50,10 +96,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/asset-manifest.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-542" />
-          </provider>
+        <entry file="file://$PROJECT_DIR$/manifest.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -65,6 +109,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/asset-manifest.json" />
       </list>
     </option>
   </component>
@@ -106,7 +151,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1661931450562" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1661931938744" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -142,17 +187,17 @@
       <updated>1661413350026</updated>
       <workItem from="1661413352701" duration="424000" />
       <workItem from="1661845277480" duration="1226000" />
-      <workItem from="1661930147288" duration="1221000" />
+      <workItem from="1661930147288" duration="1791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2871000" />
+    <option name="totallyTimeSpent" value="3441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23087248" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23087248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -169,7 +214,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.41260746" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.41260746" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -201,9 +246,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/asset-manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-542" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
